@@ -1,4 +1,3 @@
-# random motion
 ## Joseph Rice
 
 # 12/29/2017
